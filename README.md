@@ -13,7 +13,7 @@ First, you need a curve object. It must be a mesh, however, not an actual curve.
 
 Then, select the curve first, then Shift select the mesh, and press the big **Move mesh to curve** button. Then play with the scale, or rotation, flip it (or don't) and then finally press the big **Molding from mesh** button.
 
-## Using my addon vs Blender built in tools
+## Using my addon vs Blender built-in tools
 
 Only use my addon if you need straight corners with NO distortion using curves that use all 3 dimensions.
 

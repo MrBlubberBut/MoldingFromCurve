@@ -60,6 +60,8 @@ So yes, it's possible. It's just that it's curved, not straight, anymore. A box 
 
 https://user-images.githubusercontent.com/54787701/147627011-8de8df3c-9611-455e-a0cd-71f74d362248.mp4
 
+For the math and stuff using the shear tool, I made a tutorial on this post: https://blender.stackexchange.com/questions/56079/how-can-i-make-a-perfect-sweep-with-bevel-object-in-bezier-curve3d-pipe/248389#248389
+
 ## Why does it pinch to a point?
 
 If you have a CLOSED loop on your curve, then it may pinch to a point. Sometimes it won't, too. It depends on if the mesh changed directions, so to speak, mid curve. If yours did, here's a video solution:

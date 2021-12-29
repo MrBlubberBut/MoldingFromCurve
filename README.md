@@ -9,7 +9,7 @@ Download the moldingfromcurve.py file and install that as an addon in Blender by
 
 ## Using the addon
 
-First, you need a curve object. It must be a mesh, however, not an actual curve. You can convert it to a curve by going into **Object --> Convert --> Mesh**. Once you have that, you need a planar object to convert the curve into. You can use an ordinary plane, or a custom one. The mesh must be completely flat.
+First, you need a curve object. It must be a mesh, however, not an actual curve. You can convert it to a mesh by going into **Object --> Convert --> Mesh**. Once you have that, you need a planar object to convert the curve into. You can use an ordinary plane, or a custom one. The mesh must be completely flat.
 
 Then, select the curve first, then Shift select the mesh, and press the big **Move mesh to curve** button. Then play with the scale, or rotation, flip it (or don't) and then finally press the big **Molding from mesh** button.
 

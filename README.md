@@ -60,6 +60,13 @@ So yes, it's possible. It's just that it's curved, not straight, anymore. A box 
 
 https://user-images.githubusercontent.com/54787701/147627011-8de8df3c-9611-455e-a0cd-71f74d362248.mp4
 
+## Why does it pinch to a point?
+
+If you have a CLOSED loop on your curve, then it may pinch to a point. Sometimes it won't, too. It depends on if the mesh changed directions, so to speak, mid curve. If yours did, here's a video solution:
+
+https://user-images.githubusercontent.com/54787701/147627513-beb20d97-fc01-442d-912d-9a02845781b8.mp4
+
+
 
 
 

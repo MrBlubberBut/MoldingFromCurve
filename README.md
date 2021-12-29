@@ -5,7 +5,7 @@ Blender addon that makes a molding from a curve
 
 ## Installing the addon
 
-Download the moldingfromcurve.py file and install that as an addon in Blender by going into **Preferences --> Add-ons --> Install** and then select the file, and enable it.
+Download the moldingfromcurve.py or .zip file (from releases) and install that as an addon in Blender by going into **Preferences --> Add-ons --> Install** and then select the file, and enable it.
 
 ## Using the addon
 

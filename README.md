@@ -69,7 +69,11 @@ If you have a CLOSED loop on your curve, then it may pinch to a point. Sometimes
 https://user-images.githubusercontent.com/54787701/147627513-beb20d97-fc01-442d-912d-9a02845781b8.mp4
 
 
+## Getting a custom origin for the mesh
 
+If you need the mesh to be placed correctly on the curve, then you need to select two vertices and sort the indexes of the vertices. Here's a video solution:
+
+![customvertex](https://user-images.githubusercontent.com/54787701/147628047-393c842b-f8b2-4ef4-a877-730dfb011ddf.gif)
 
 
 ## Why is it so slow?

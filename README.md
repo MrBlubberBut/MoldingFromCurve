@@ -24,6 +24,7 @@ Therefore... if you need this:
 Or this:
 
 ![image](https://user-images.githubusercontent.com/54787701/147624657-324d237b-5dac-4af6-8052-7320887fa871.png)
+
 (Notice the curvy, not straight, corners.)
 
 Use Blenders tools instead for stuff like that.

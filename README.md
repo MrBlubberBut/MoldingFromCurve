@@ -54,13 +54,13 @@ Notice how, in order to complete the turn, it first goes straight, and then does
 
 Alternatively, here's what it would look like if you did it manually in 3D:
 
-![image](https://user-images.githubusercontent.com/54787701/147625486-a50c07ac-2486-4dd7-bcc3-4e69739c2438.png)
+![image](https://user-images.githubusercontent.com/54787701/147626637-28b81e91-2d97-4f6c-98b0-df9f8b47e487.png)
 
-Seems all well and good, right? But look closer:
+So yes, it's possible. It's just that it's curved, not straight, anymore. A box would turn into a diamond. Yadda yadda. At first I didn't even think it was possible so I didn't code something like that in. Tough beans, I'm sorry. You can always do it manually though! Here's a video of me doing it:
 
-![image](https://user-images.githubusercontent.com/54787701/147625430-fd3247a1-87c4-4c85-9d6a-2e56a51cf3c2.png)
+https://user-images.githubusercontent.com/54787701/147627011-8de8df3c-9611-455e-a0cd-71f74d362248.mp4
 
-Notice theres extra stuff around the mesh which I pointed to. Also notice how the face isn't a square as it should be. So, there's distortion. And that would take way too long to code for me if I actually wanted to deal with something like that.
+
 
 
 ## Why is it so slow?
